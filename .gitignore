@@ -1,3 +1,7 @@
+### Data
+*.tgz
+
+### Coding
 # Prerequisites
 *.d
 
